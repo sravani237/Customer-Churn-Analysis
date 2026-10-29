@@ -33,3 +33,6 @@ The repository contains the project files for the Excel data preparation, SQL qu
 
 ## Conclusion
 This project demonstrates the use of Excel, SQL, Python, and Power BI to analyze customer churn and communicate findings through data visualization.
+## Dashboard Preview
+
+![Customer Churn Dashboard](customer-churn-dashboard.png)
